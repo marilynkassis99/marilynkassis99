@@ -1,16 +1,18 @@
-### Hi there 👋
+<H1>Hello, I'm Marilyn 👋
 
-<!--
-**marilynkassis99/marilynkassis99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- 🌐 Business Analyst| Data Enthusiast
+- 🎓 Business Analytics and Big data Student
+- 🚀 Passionate about coding and learning new technologies
 
-Here are some ideas to get you started:
+### Tech Stack
+- 💻 Languages: Python, SQL, R
+- 🛠️ Tools & Frameworks: 
+- 📊 Databases: MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-marilyn-el-kassis-blue)](www.linkedin.com/in/marilyn-el-kassis)
+
+### Let's Collaborate!
+- 📫 Email: marilynkassis@outlook.com
+
